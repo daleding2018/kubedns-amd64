@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
+FROM k8s.gcr.io/kube-scheduler:v1.19.2
