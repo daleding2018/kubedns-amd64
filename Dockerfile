@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base@sha256:92720b2305d7315b5426aec19f8651e9e04222991f877cae71f40b3141d2f07e
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.23.0@sha256:fbc317c68da9cc406cce58508869b35b240fc11034efffac113ed1f980ee3c7a
